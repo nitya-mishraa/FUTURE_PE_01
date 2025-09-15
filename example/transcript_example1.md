@@ -1,4 +1,4 @@
----
+```python
 # Student Input:
 def calculate_average(numbers):
     total = 0
@@ -7,7 +7,7 @@ def calculate_average(numbers):
     return total / len(numbers)
 
 print(calculate_average([]))
----
+```
 
 ### AI Response:
 
